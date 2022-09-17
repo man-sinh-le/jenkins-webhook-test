@@ -1,5 +1,5 @@
 #!/bin/bash
-hostname -i >info.sh
-uptime >>info.sh
-uname -a >>info.sh
-free -h >>info.sh
+hostname -i >info.md
+uptime >>info.md
+uname -a >>info.md
+free -h >>info.md
